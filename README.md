@@ -1,7 +1,6 @@
 # shoping
 
-A new Flutter project.
-
+My project shopping app in flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
