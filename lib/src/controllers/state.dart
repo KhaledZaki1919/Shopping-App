@@ -1,0 +1,3 @@
+class shoppingState {}
+
+class shopinglnitiatState {}
